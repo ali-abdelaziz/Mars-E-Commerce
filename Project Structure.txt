@@ -1,0 +1,32 @@
+Project Structure
+------------------
+
+- Products
+
+   Components:
+      - All Products
+      - Products Details
+
+   Services:
+      - Product.service
+
+********************************************
+
+- Carts
+
+   Components:
+      - Cart
+
+   Services:
+      - Cart.service
+
+********************************************
+
+- Shared
+
+   Components:
+      - Navbar
+      - Select
+
+   Services:
+      - Cart.service
